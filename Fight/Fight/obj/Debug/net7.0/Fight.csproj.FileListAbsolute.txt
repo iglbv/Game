@@ -1,0 +1,12 @@
+C:\Users\1\Desktop\прг\Fight\Fight\bin\Debug\net7.0\Fight.deps.json
+C:\Users\1\Desktop\прг\Fight\Fight\bin\Debug\net7.0\Fight.dll
+C:\Users\1\Desktop\прг\Fight\Fight\bin\Debug\net7.0\Fight.pdb
+C:\Users\1\Desktop\прг\Fight\Fight\obj\Debug\net7.0\Fight.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\прг\Fight\Fight\obj\Debug\net7.0\Fight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\прг\Fight\Fight\obj\Debug\net7.0\Fight.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\прг\Fight\Fight\obj\Debug\net7.0\Fight.AssemblyInfo.cs
+C:\Users\1\Desktop\прг\Fight\Fight\obj\Debug\net7.0\Fight.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\прг\Fight\Fight\obj\Debug\net7.0\Fight.dll
+C:\Users\1\Desktop\прг\Fight\Fight\obj\Debug\net7.0\refint\Fight.dll
+C:\Users\1\Desktop\прг\Fight\Fight\obj\Debug\net7.0\Fight.pdb
+C:\Users\1\Desktop\прг\Fight\Fight\obj\Debug\net7.0\ref\Fight.dll
